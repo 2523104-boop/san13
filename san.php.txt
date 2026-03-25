@@ -1,0 +1,18 @@
+<!DOC TYPE html>
+<html>
+<body>
+<?php
+//this is a single_line comment
+#this is also a single_line comment
+/*
+this is a multiple_lines comment block
+that spans over multiple
+line
+*/
+//you can also use comments to leave out parts of code line 
+$X=5/*=15*/=5;
+echo $X;
+?>
+</body>
+</html>
+								
